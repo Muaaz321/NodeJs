@@ -1,0 +1,6 @@
+When using the async iterator, the <fs.Dir> object will be automatically closed after the iterator exits.
+Code-comments are incredibly useful. When building out complex functionality, sometimes I'll even write out the whole function in pseudo-code comments before writing any code.
+
+Comments make code more readable and understandable. This is especially useful if you work on a large team with lots of people. Every comment you write could save you and your colleagues some back and forth on slack.
+
+The other great use-case of comments is quickly disabling one or multiple lines of code. This comes in handy when debugging your program
